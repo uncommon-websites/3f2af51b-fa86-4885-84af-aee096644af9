@@ -2,8 +2,8 @@
 
 @theme {
 	/* Colors */
-	--color-cream: #F9F8F4;
-	--color-orange-brand: #FF5D2A;
+	--color-cream: #FFFFFF;
+	--color-orange-brand: oklch(0.645 0.246 16.439);
 	--color-dark: #191817;
 	
 	--color-gray-50: #F9FAFB;
